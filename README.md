@@ -1,10 +1,10 @@
 # Interfacing-a-Digital-INPUT-push-button-to-LPC2148-ARM-7-Microcontroller-
-Name :
-Roll no 
-Date of experiment :
+Name : Y SHAVEDHA
+Roll no : 212221230095
+Date of experiment : 01-10-2022
 
 Ex. No. : 3
-Date: 
+Date : 01-10-2022 
  
 ### Aim: To Interface a Digital input (pushbutton ) to LPC2148 ARM 7 and write a code to switch on and of an LED 
 Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
@@ -116,12 +116,21 @@ Step 9: Select the hex file from the Kiel program folder and import the program 
 
 
 ### Kiel - Program  
+![prgm2](https://user-images.githubusercontent.com/93427376/193601285-d38d04d1-f840-4af3-9786-8b7578d178f2.png)
+
+### Output :
+## LED OFF
+![pic2](https://user-images.githubusercontent.com/93427376/193601778-d826cd44-e4a8-4fc4-a0e3-242f353121a4.jpeg)
+## LED ON
+![pic1](https://user-images.githubusercontent.com/93427376/193601871-b73d825b-a54f-4ff2-8ac4-5fd68870e53f.jpeg)
+## CIRCUIT DIAGRAM
+![pic3f](https://user-images.githubusercontent.com/93427376/193602017-6ff6d12b-521b-4ee9-83ee-cec4cb8efd7a.jpeg)
 
 
 ### Result :
 Interfacing a digital output with ARM microcontroller is executed 
 
-### Output screen shots :
+
 
 
 
